@@ -3,3 +3,8 @@ src/**
 funktion.yml
 README.md
 pom.xml
+*.iml
+.idea
+.git
+.idea/**
+.git/**
