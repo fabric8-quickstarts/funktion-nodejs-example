@@ -1,0 +1,5 @@
+target/**
+src/**
+funktion.yml
+README.md
+pom.xml

@@ -1,0 +1,13 @@
+{
+  "name": "funktion-nodejs-example",
+  "version": "1.0.0",
+  "description": "an example nodejs funktion",
+  "main": "hello.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node hello-rest.js"
+  },
+  "homepage": "https://github.com/fabric8-quickstarts/funktion-nodejs-example/blob/master/ReadMe.md"
+}
