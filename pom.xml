@@ -21,7 +21,7 @@
   <parent>
     <groupId>io.fabric8.funktion.starter</groupId>
     <artifactId>starter-parent-sidecar</artifactId>
-    <version>1.0.29</version>
+    <version>1.0.33</version>
   </parent>
 
   <groupId>io.fabric8.funktion.quickstart</groupId>
